@@ -1,2 +1,1 @@
-Triveni Sales Website
-trivenisales.in.net
+Website for Triveni Sales Corporation, Pune, India
